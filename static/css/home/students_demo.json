@@ -1,0 +1,293 @@
+[
+    {
+    "A.V.C. College of Engineering": {
+    "cse": [
+    {
+    "name": "Sarika Srinivasan",
+    "id": "20KD162634",
+    "cgpa": 9.5,
+    "email": "sarikasrinivasan@yahoo.com",
+    "contact": "+91-555-963-7412"
+    },
+    {
+    "name": "Aditya Rao",
+    "id": "20KD138405",
+    "cgpa": 9.3,
+    "email": "adityarao@gmail.com",
+    "contact": "+91-555-784-5632"
+    },
+    {
+    "name": "Shruti Krishnan",
+    "id": "20KD192063",
+    "cgpa": 9.7,
+    "email": "shrutikrishnan@yahoo.com",
+    "contact": "+91-555-369-8521"
+    },
+    {
+    "name": "Vikram Nair",
+    "id": "20KD154792",
+    "cgpa": 9.1,
+    "email": "vikramnair@gmail.com",
+    "contact": "+91-555-852-7413"
+    }
+    ],
+    "ece": [
+    {
+    "name": "Sneha Menon",
+    "id": "20KD174620",
+    "cgpa": 9.4,
+    "email": "snehamenon@yahoo.com",
+    "contact": "+91-555-745-9632"
+    },
+    {
+    "name": "Naveen Kumar",
+    "id": "20KD140738",
+    "cgpa": 9.0,
+    "email": "naveenkumar@gmail.com",
+    "contact": "+91-555-321-4567"
+    }
+    ],
+    "mech": [
+    {
+    "name": "Amit Sharma",
+    "id": "20KD137830",
+    "cgpa": 8.7,
+    "email": "amitsharma@yahoo.com",
+    "contact": "+91-555-456-3217"
+    },
+    {
+    "name": "Sonia Singh",
+    "id": "20KD173621",
+    "cgpa": 8.9,
+    "email": "soniasingh@gmail.com",
+    "contact": "+91-555-963-7412"
+    },
+    {
+    "name": "Rahul Menon",
+    "id": "20KD182739",
+    "cgpa": 8.5,
+    "email": "rahulmenon@yahoo.com",
+    "contact": "+91-555-784-5632"
+    }
+    ]
+    }
+    },
+    {
+    "National Institute of Technology": {
+    "cse": [
+    {
+    "name": "Anu Nair",
+    "id": "20KD162634",
+    "cgpa": 9.5,
+    "email": "anunair@yahoo.com",
+    "contact": "+91-555-963-7412"
+    },
+    {
+    "name": "Rahul Menon",
+    "id": "20KD138405",
+    "cgpa": 9.3,
+    "email": "rahulmenon@gmail.com",
+    "contact": "+91-555-784-5632"
+    },
+    {
+    "name": "Aditi Nair",
+    "id": "20KD192063",
+    "cgpa": 9.7,
+    "email": "aditinair@yahoo.com",
+    "contact": "+91-555-369-8521"
+    },
+    {
+    "name": "Ravi Kumar",
+    "id": "20KD154792",
+    "cgpa": 9.1,
+    "email": "ravikumar@gmail.com",
+    "contact": "+91-555-852-7413"
+    }
+    ],
+    "ece": [
+    {
+    "name": "Krishna Patel",
+    "id": "20KD174620",
+    "cgpa": 9.4,
+    "email": "krishnapatel@yahoo.com",
+    "contact": "+91-555-745-9632"
+    },
+    {
+    "name": "Vidya Suresh",
+    "id": "20KD140738",
+    "cgpa": 9.0,
+    "email": "vidyasuresh@gmail.com",
+    "contact": "+91-555-321-4567"
+    }
+    ],
+    "mech": [
+    {
+    "name": "Suresh Menon",
+    "id": "20KD137830",
+    "cgpa": 8.7,
+    "email": "sureshmenon@yahoo.com",
+    "contact": "+91-555-456-3217"
+    },
+    {
+    "name": "Akhil Nair",
+    "id": "20KD173621",
+    "cgpa": 8.9,
+    "email": "akhilnair@gmail.com",
+    "contact": "+91-555-963-7412"
+    },
+    {
+    "name": "Raj Patel",
+    "id": "20KD182739",
+    "cgpa": 8.5,
+    "email": "rajpatel@yahoo.com",
+    "contact": "+91-555-784-5632"
+    }
+    ]
+    }
+    },
+    {
+    "Indian Institute of Technology": {
+    "cse": [
+    {
+    "name": "Smita Nair",
+    "id": "20KD162634",
+    "cgpa": 9.5,
+    "email": "smitanair@yahoo.com",
+    "contact": "+91-555-963-7412"
+    },
+    {
+    "name": "Arun Menon",
+    "id": "20KD138405",
+    "cgpa": 9.3,
+    "email": "arunmenon@gmail.com",
+    "contact": "+91-555-784-5632"
+    },
+    {
+    "name": "Krishna Nair",
+    "id": "20KD192063",
+    "cgpa": 9.7,
+    "email": "krishnanair@yahoo.com",
+    "contact": "+91-555-369-8521"
+    },
+    {
+    "name": "Vishnu Kumar",
+    "id": "20KD154792",
+    "cgpa": 9.1,
+    "email": "vishnukumar@gmail.com",
+    "contact": "+91-555-852-7413"
+    }
+    ],
+    "ece": [
+    {
+    "name": "Rajesh Patel",
+    "id": "20KD174620",
+    "cgpa": 9.4,
+    "email": "rajeshpatel@yahoo.com",
+    "contact": "+91-555-745-9632"
+    },
+    {
+    "name": "Anjali Menon",
+    "id": "20KD140738",
+    "cgpa": 9.0,
+    "email": "anjal@yahoo.com",
+    "contact": "+91-555-745-9632"
+    
+        }
+    ]
+    }
+},
+    {
+    "KCT":{
+      "cse":[
+        {
+          "name": "Saranya",
+          "id": "19KT167893",
+          "cgpa": 9.8,
+          "email": "saranyacse@gmail.com",
+          "contact": "+91-555-852-7412"
+        },
+        {
+          "name": "Rahul Sharma",
+          "id": "19KT138405",
+          "cgpa": 9.6,
+          "email": "rahulsharma09@gmail.com",
+          "contact": "+91-555-784-5698"
+        },
+        {
+          "name": "Sangeetha",
+          "id": "19KT192036",
+          "cgpa": 9.7,
+          "email": "sangeethacs@gmail.com",
+          "contact": "+91-555-369-8521"
+        },
+        {
+          "name": "Karthik",
+          "id": "19KT154792",
+          "cgpa": 9.4,
+          "email": "karthikcse@gmail.com",
+          "contact": "+91-555-852-7413"
+        }
+    ],
+      "ece":[
+        {
+          "name": "Pranav",
+          "id": "19KT178936",
+          "cgpa": 9.3,
+          "email": "pranavece@gmail.com",
+          "contact": "+91-555-745-9632"
+        },
+        {
+          "name": "Pooja",
+          "id": "19KT140738",
+          "cgpa": 9.1,
+          "email": "poojaece@gmail.com",
+          "contact": "+91-555-321-4567"
+        },
+        {
+          "name": "Gautham",
+          "id": "19KT186092",
+          "cgpa": 9.5,
+          "email": "gauthamece@gmail.com",
+          "contact": "+91-555-632-8965"
+        },
+        {
+          "name": "Anjali",
+          "id": "19KT154738",
+          "cgpa": 9.2,
+          "email": "anjaliece@gmail.com",
+          "contact": "+91-555-369-7412"
+        }
+    ],
+      "mech" :[
+        {
+          "name": "Srikanth",
+          "id": "19KT167836",
+          "cgpa": 8.9,
+          "email": "srikanthmech@gmail.com",
+          "contact": "+91-555-852-9632"
+        },
+        {
+          "name": "Rajkumar",
+          "id": "19KT138321",
+          "cgpa": 8.5,
+          "email": "rajkumarmech@gmail.com",
+          "contact": "+91-555-321-7854"
+        },
+        {
+          "name": "Sathish",
+          "id": "19KT196012",
+          "cgpa": 9.0,
+          "email": "sathishmech@gmail.com",
+          "contact": "+91-555-632-8965"
+        },
+        {
+          "name": "Vijay",
+          "id": "19KT154738",
+          "cgpa": 8.7,
+          "email": "vijaymech@gmail.com",
+          "contact": "+91-555-963-7412"
+        }
+      ]
+    }
+}
+]
